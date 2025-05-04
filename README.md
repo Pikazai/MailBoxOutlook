@@ -10,9 +10,6 @@
 
 - 🔐 Đăng nhập tự động bằng danh sách tài khoản Hotmail.
 - 📥 Truy cập và lọc thư đến theo tiêu đề hoặc từ khóa.
-- 🧠 Phân tích nội dung thư (ví dụ: lấy mã xác minh).
-- 🔁 Hỗ trợ tự động lặp lại khi không có thư.
-- 📤 Tích hợp gửi kết quả qua API hoặc lưu vào file.
 
 ---
 
